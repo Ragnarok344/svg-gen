@@ -15,6 +15,8 @@ Node dependencies jest and inquierer
 Simply load into your visual studios and run npm install to get the dependencies and run "node index.js" in command prompt and answer the questions.
 
 ## Demo
+[Uploading Untitled_ May 15, 2024 12_27 PM.webm…]()
 
 ## test
 The test tests the coloring of the shape size and text 
+[Uploading Untitled_ May 15, 2024 12_45 PM.webm…]()
